@@ -1,0 +1,9 @@
+[submodule "Heart-Disease-Analysis-Dashboard"]
+	path = Heart-Disease-Analysis-Dashboard
+	url = git@github.com:Bhagyawanth1729/Heart-Disease-Analysis-Dashboard.git
+[submodule "Sales-and-Inventory-Dashboard-using-Power-BI"]
+	path = Sales-and-Inventory-Dashboard-using-Power-BI
+	url = git@github.com:Bhagyawanth1729/Sales-and-Inventory-Dashboard-using-Power-BI.git
+[submodule "Chocolate-Sales-"]
+	path = Chocolate-Sales-
+	url = git@github.com:Bhagyawanth1729/Chocolate-Sales-.git
